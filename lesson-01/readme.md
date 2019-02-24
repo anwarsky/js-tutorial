@@ -1,0 +1,1 @@
+1. Write function fibonacci(n) where n integer > 0
